@@ -4,23 +4,23 @@ Incryption *you* control
 ##What is Incrypt?
 Incrypt aims to make end to end encryption easy. Content should be encrypted before leaving your browser, so that it's impossible that anyone else can see it. 
 
-Currently we provide an experimental Chrome extension which automatically encrypts and decrypts content on certain sites. 
+Currently we provide an experimental [Chrome extension](https://chrome.google.com/webstore/detail/incrypt/dpjkdfkiiifaeandmfhdklbfiljjippf) which automatically encrypts and decrypts content on certain sites. 
 
 We have currently added support for:
 
-* http://pastebin.com
-* http://gist.github.com
-* http://gmail.google.com (Although you can only send emails to yourself).
+* [Pastebin](http://pastebin.com)
+* [Gist](http://gist.github.com)
+* [Gmail](http://gmail.google.com) (Although you can only send emails to yourself).
 
 Anybody can build a site which works with the extension.
 
 ##How to use
 
-Install the chrome extension: 
+Install the [chrome extension](https://chrome.google.com/webstore/detail/incrypt/dpjkdfkiiifaeandmfhdklbfiljjippf): 
 
 You'll be prompted to set up a password, enter your password.
 
-Go to http://pastebin.com and enter some text into the input box. 
+Go to [Pastebin](http://pastebin.com) and enter some text into the input box. 
 
 Upon leaving the box the text you entered will be InCrypted.
 
