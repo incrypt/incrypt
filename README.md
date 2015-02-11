@@ -33,6 +33,10 @@ The extension currently supports automatic encryption and decryption on:
 * Upon leaving the box the text you entered will be InCrypted.
 * Click 'Publish' - you'll see the decrypted version of your text.
 
+#### Demo
+
+![](videos/IncryptPasteBinExample.gif)
+
 ## Warnings
 
 Currently the extension is in early alpha, and is intended as a demo to get feedback rather than a product.
