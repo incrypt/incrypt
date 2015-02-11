@@ -48,7 +48,7 @@ Finally we'd like to add support for multiple browsers and mobile operating syst
 
 ## Technical
 ### How It Works
-When the extension detects InCrypt markup in HTML e.g. `<input incrypted="true"> </input>`. It automatically goes to work encrypting and decrypting content in those elements.
+When the extension detects InCrypt markup in HTML e.g. `<input incrypted="true"> </input>`, it automatically goes to work encrypting and decrypting content in those elements.
 
 If you want to included InCrypt support on your site, simply ensure that any `<input>` or `<textarea>` have this attribute applied. The InCrypt extension will then take care of the rest!
 
@@ -56,7 +56,7 @@ If you want to included InCrypt support on your site, simply ensure that any `<i
 
 We'd love to hear from you! 
 
-If you have any thoughts / improvements or would like to build an application / example which uses InCrypt you can:
+If you have any thoughts / improvements or would like to build an application or example which uses InCrypt you can:
 
 * [Create an issue](https://github.com/incrypt/incrypt/issues/new)
 * [Email us](mailto:incrypt@googlegroups.com)
