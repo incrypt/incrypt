@@ -1,5 +1,5 @@
 # InCrypt
-> Encryption *you* control
+> Encryption **you** control
 
 ## What is InCrypt?
 InCrypt makes end-to-end encryption easy. Your sensitive data is encrypted before leaving your browser and sent to the website *in it's encrypted form*. This means only you, with your key and password, can decrypt it. It's impossible for anyone else to intercept and read it. 
@@ -14,14 +14,14 @@ The extension currently supports automatic encryption and decryption on:
 
 * [Pastebin](http://pastebin.com)
 * [Gist](http://gist.github.com)
-* [Gmail](https://mail.google.com/mail/#inbox?compose=new) (Although you can only send emails to yourself).
+* [Gmail](https://mail.google.com/mail/#inbox?compose=new) (currently you can only send emails to yourself, as only you have the key).
 
 ## Installation
 
 * Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/incrypt/dpjkdfkiiifaeandmfhdklbfiljjippf) to install the extension 
 * Once installed, a pop-up will appear to enter your password
-* You'll be prompted to set up a password, enter your password.
-  * **NOTE**: If you forget this password, you will not be able to recover your data
+* You'll be prompted to set up a password
+  * **NOTE**: Please note that for security reasons we don’t store your password, and therefore cannot recover your password if you lose it. We suggest you make a note of your password somewhere secure.
 * Your personal private key will be generated and stored in encrypted form on your machine
   * If you have Chrome Sync enabled, the key will be available on all your Chrome installations
 
@@ -29,23 +29,23 @@ The extension currently supports automatic encryption and decryption on:
 
 ### Pastebin 
 
-* Go to [Pastebin](http://pastebin.com) and enter some text into the input box. 
-* Upon leaving the box the text you entered will be InCrypted.
-* Click 'Publish' - you'll see the decrypted version of your text.
+* Head to [Pastebin](http://pastebin.com) and enter your text into the input box. 
+* When you leave the input box, the text you entered will be InCrypted.
+* Click 'Publish' and you'll see the decrypted version of your text.
 
 ## Warnings
 
 Currently the extension is in early alpha, and is intended as a demo to get feedback rather than a product.
 
-Please don't use it to store any data you'd be upset to lose.
+Please don't use it to store any essential data which you'd be upset to lose.
 
 ## What's planned for the future?
 
-In future we'd like to stabilise the API to enable people to build applications which take advantage of InCrypt for end-to-end encryption on their sites.
+In future we aim to stabilise the API to enable people to build applications which take advantage of InCrypt for end-to-end encryption on their sites.
 
 We'd also like to implement communication encryption so that communications with others can be encrypted and decrypted. For example emails and instant messages.
 
-We'd like to add support for multiple browsers and mobile operating systems.
+Finally we'd like to add support for multiple browsers and mobile operating systems.
 
 ## Technical
 ### How It Works
