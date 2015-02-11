@@ -2,7 +2,7 @@
 > Encryption **you** control
 
 ## What is InCrypt?
-InCrypt makes end-to-end encryption easy. Your sensitive data is encrypted before leaving your browser and sent to the website *in it's encrypted form*. This means only you, with your key and password, can decrypt it. It's impossible for anyone else to intercept and read it. 
+InCrypt makes end-to-end encryption easy. It protects sensitive data by restricting plain text storage on remote servers/websites, automatically encrypting at point of entry and decrypting at point of retrieval. The website you are using never sees the raw data, only the encrypted version, so only you will see your data.
 
 When you visit the page later, the content is then automatically decrypted.
 
@@ -35,9 +35,8 @@ The extension currently supports automatic encryption and decryption on:
 
 ## Warnings
 
-Currently the extension is in early alpha, and is intended as a demo to get feedback rather than a product.
+InCrypt is currently in alpha, and may have bugs or unexpected behavior. We do not recommend making InCrypt the sole storage location for sensitive data.
 
-Please don't use it to store any essential data which you'd be upset to lose.
 
 ## What's planned for the future?
 
