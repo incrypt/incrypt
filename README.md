@@ -6,6 +6,7 @@ InCrypt makes end-to-end encryption easy. It protects sensitive data by never st
 When you visit the page later, the content is then automatically decrypted.
 
 ## Chrome Extension
+[![](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/incrypt/dpjkdfkiiifaeandmfhdklbfiljjippf)
 
 Currently we provide an experimental [Chrome extension](https://chrome.google.com/webstore/detail/incrypt/dpjkdfkiiifaeandmfhdklbfiljjippf) which automatically encrypts and decrypts content on certain sites. 
 
