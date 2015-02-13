@@ -20,7 +20,6 @@ The extension currently supports automatic encryption and decryption on:
 
 * Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/incrypt/dpjkdfkiiifaeandmfhdklbfiljjippf) to install the extension 
 * Once installed, a pop-up will appear to enter your password
-* You'll be prompted to set up a password
   * **NOTE**: Please note that for security reasons we don’t store your password, and therefore cannot recover your password if you lose it. We suggest you make a note of your password somewhere secure.
 * Your personal private key will be generated and stored in encrypted form on your machine
   * If you have Chrome Sync enabled, the key will be available on all your Chrome installations
