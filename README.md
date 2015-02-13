@@ -2,7 +2,7 @@
 > Encryption **you** control
 
 ## What is InCrypt?
-InCrypt makes end-to-end encryption easy. It protects sensitive data by restricting plain text storage on remote servers/websites, automatically encrypting at point of entry and decrypting at point of retrieval. The website you are using never sees the raw data, only the encrypted version, so only you will see your data.
+InCrypt makes end-to-end encryption easy. It protects sensitive data by never storing your plain text on remote servers/websites. It automatically encrypts at point of entry and decrypts at point of retrieval. The website you are using never sees the raw data, only the encrypted version, so only you will see your data.
 
 When you visit the page later, the content is then automatically decrypted.
 
