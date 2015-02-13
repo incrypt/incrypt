@@ -1,5 +1,4 @@
-# InCrypt
-> Encryption **you** control
+![](images/incrypt_promo_440.png)
 
 ## What is InCrypt?
 InCrypt makes end-to-end encryption easy. It protects sensitive data by never storing your plain text on remote servers/websites. It automatically encrypts at point of entry and decrypts at point of retrieval. The website you are using never sees the raw data, only the encrypted version, so only you will see your data.
