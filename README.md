@@ -45,7 +45,7 @@ InCrypt is currently in alpha, and may have bugs or unexpected behavior. We do n
 
 In future we aim to stabilise the API to enable people to build applications which take advantage of InCrypt for end-to-end encryption on their sites.
 
-We'd also like to implement communication encryption so that communications with others can be encrypted and decrypted. For example emails and instant messages.
+We'd also like to implement person-to-person encryption so that communications with others can be encrypted and decrypted. For example emails and instant messages.
 
 Finally we'd like to add support for multiple browsers and mobile operating systems.
 
