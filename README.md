@@ -63,7 +63,7 @@ If you have any thoughts / improvements or would like to build an application or
 
 * [Create an issue](https://github.com/incrypt/incrypt/issues/new)
 * [Email us](mailto:incrypt@googlegroups.com)
-* Reply to us on [Reddit](http://reddit.com)
+* Reply to us on [Reddit](https://www.reddit.com/r/netsec/comments/2vt464/incrypt_encryption_you_control_chrome_extension/)
 
 ## Thanks
 
