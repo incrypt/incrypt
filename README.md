@@ -64,3 +64,7 @@ If you have any thoughts / improvements or would like to build an application or
 * [Create an issue](https://github.com/incrypt/incrypt/issues/new)
 * [Email us](mailto:incrypt@googlegroups.com)
 * Reply to us on [Reddit](http://reddit.com)
+
+## Thanks
+
+We'd like to thank [@CRichardsDesign](https://twitter.com/CRichardsDesign) for UX guidance, icon designs and promos.
