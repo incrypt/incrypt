@@ -29,7 +29,7 @@ The extension currently supports automatic encryption and decryption on:
 ### Pastebin 
 
 * Head to [Pastebin](http://pastebin.com) and enter your text into the input box. 
-* When you leave the input box, the text you entered will be InCrypted.
+* When you leave the input box, the text you entered will be encrypted.
 * Click 'Publish' and you'll see the decrypted version of your text.
 
 #### Demo
