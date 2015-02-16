@@ -1,10 +1,10 @@
 #Security
 
 ## Encryption method
-We use [Cryptico](https://github.com/wwwtyro/cryptico) a javascript encryption library for encryption. We're using a currently using a key length of 1024.
+We use [Cryptico](https://github.com/wwwtyro/cryptico) a javascript encryption library for encryption. We're using a currently using a key private/public key pair of length of 1024.
 
 ## Key storage
-Your key is stored encrypted with a passphrase that you set. It is currently stored in chrome sync, but later we may make this flexible e.g. storage on local disk. The decrypted key is in memory, but never stored on disk decrypted.
+Your private/public key pair is stored encrypted with a passphrase that you set. It is currently stored in chrome sync, but later we may make this flexible e.g. storage on local disk. The decrypted key is in memory, but never stored on disk decrypted.
 
 ## Closed source encryption
 
