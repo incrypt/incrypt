@@ -8,7 +8,7 @@ The key used is an RSA public/private key with a 1024-bit length.
 
 ## Key Storage
 
-The generated public/private key is stored in an encrypted format using the password you set when you first install the add-in.
+The generated public/private key is stored in an encrypted format using the password you set when you first install the extension.
 
 If you have Chrome Sync enabled on your Chrome installation, the key will be stored (in encrypted form) and synced to Google's Chrome Sync cloud storage.
 
