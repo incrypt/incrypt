@@ -55,6 +55,10 @@ When the extension detects InCrypt markup in HTML `<input incrypted="true"> </in
 
 If you want to included InCrypt support on your site, simply ensure that any `<input>` or `<textarea>` has this attribute applied. The InCrypt extension will then take care of the rest!
 
+### Security
+
+For more details about our security model read our [security section](security.md).
+
 ## Contact Us
 
 We'd love to hear from you! 
